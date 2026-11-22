@@ -1,4 +1,4 @@
-#profile-title: 🔥 Hoooot VPN\n$&
+#profile-title: 🔥 Hoooot VPN
 trojan://Lz3NvQXwksB8@104.238.164.178:443?sni=dog.37d327be-06b7-3872-8f1a-678c9007ab0a.kailib.com#HOT%20VPN%20%F0%9F%8C%B4%20ElkGrove%20%7C%20Stable
 vless://d90087c3-54f5-4283-a13f-615260c8b0c7@144.202.107.124:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&security=reality&sni=dog.37d327be-06b7-3872-8f1a-678c9007ab0a.googleapis.com&type=tcp#HOT%20VPN%20%F0%9F%94%A5%20SanJose%20%7C%20Reality
 trojan://Lz3NvQXwksB8@144.202.90.38:443?sni=dog.37d327be-06b7-3872-8f1a-678c9007ab0a.kailib.com#HOT%20VPN%20%E2%9A%A1%20Kent%20%7C%20Fast
